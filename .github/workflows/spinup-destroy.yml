@@ -11,6 +11,7 @@ env:
   AZURE_LOCATION: '"East US"'
   ###############################################
   ### Replace <username> with GitHub username ###
+  ### 1                                       ###
   ###############################################
   AZURE_WEBAPP_NAME: j-a-wr-ttt-app
 
